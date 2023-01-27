@@ -29,7 +29,10 @@ int main()
 			can try to request user the mileage on the car.
 			Then charge the user fixed rate on extra mileage.
 			But if want to do this, then the txt file must update to include limited or unlimited mileage.
-			Just suggesting. */
+			Just suggesting. 
+			
+			aLso if really want to do this, u need to create another txt file, but i can guide u thru it.
+			*/
 		}
 		else if (page == 3) // apply membership
 		{
