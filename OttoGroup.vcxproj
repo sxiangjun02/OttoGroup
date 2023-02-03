@@ -129,6 +129,7 @@
   <ItemGroup>
     <Text Include="membership.txt" />
     <Text Include="Project2.txt" />
+    <Text Include="Rental.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="editedProject.cpp" />

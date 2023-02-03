@@ -1,0 +1,3 @@
+bomb	2000	mazda	1
+jun	2000	mazda	0
+testbeta	1620	bmw	1
